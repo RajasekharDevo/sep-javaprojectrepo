@@ -8,6 +8,26 @@ class Main {
 
     // create an object of Scanner class
     Scanner input = new Scanner(System.in);
+    // feature2.1 changes done by  developer sai
+ in oct 2023
+ System.out.println("Enter a number");
+ int number = input.nextInt();
+     private final class UpdatedClass extends TestClass {
+
+     class ForeignClass {
+         public final String text;
+         ForeignClass(String text) {
+             this.text = text;
+         }
+     }
+     List<sample> Sample;
+     UpdatedClass(int width, int height) {
+         super();
+         testList = new ArrayList<>();
+     }
+ }
+}
+//end of newfeature 2.1 
 
     // take integer input from the user
     System.out.println("Enter a number");
